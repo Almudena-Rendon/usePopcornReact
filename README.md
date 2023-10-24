@@ -1,3 +1,6 @@
+
+![274046893-b8efff24-1a52-4536-9b8a-4eb7c0f6aeef](https://github.com/Almudena-Rendon/usePopcornReact/assets/126793941/e2ccc21d-2b40-4270-a04b-6e0f9175021f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
